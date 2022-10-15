@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['scb',['scb',['../d5/d9a/classsjsu_1_1cortex_1_1InterruptController.html#ab64deee3a1bab3aefe2b07f086896af0',1,'sjsu::cortex::InterruptController']]],
+  ['sck',['sck',['../d3/dad/structsjsu_1_1lpc40xx_1_1Spi_1_1Bus__t.html#af0402c491ad17f4c180f3b77fbd9f2a9',1,'sjsu::lpc40xx::Spi::Bus_t::sck()'],['../db/db3/structsjsu_1_1stm32f10x_1_1Spi_1_1Port__t.html#a2fbbd35c4a647ba895037d17a921bdb2',1,'sjsu::stm32f10x::Spi::Port_t::sck()']]],
+  ['scl_5fpin',['scl_pin',['../d7/dc6/structsjsu_1_1lpc40xx_1_1I2c_1_1Port__t.html#a08e20452261a910ca851a7445bfe11aa',1,'sjsu::lpc40xx::I2c::Port_t::scl_pin()'],['../da/d6d/structsjsu_1_1stm32f4xx_1_1I2c_1_1Port__t.html#a6ac941c9a1061609680aa04d4e4a7b72',1,'sjsu::stm32f4xx::I2c::Port_t::scl_pin()']]],
+  ['sda_5fpin',['sda_pin',['../d7/dc6/structsjsu_1_1lpc40xx_1_1I2c_1_1Port__t.html#a44378827feb1fdfda5cfd067176f0dd3',1,'sjsu::lpc40xx::I2c::Port_t::sda_pin()'],['../da/d6d/structsjsu_1_1stm32f4xx_1_1I2c_1_1Port__t.html#a744e3554ddbfe0fe736f5870ed4945d0',1,'sjsu::stm32f4xx::I2c::Port_t::sda_pin()']]],
+  ['semaphore_5f',['semaphore_',['../d1/d29/classsjsu_1_1rtos_1_1PeriodicTask.html#abf739cf54a2f35b206c3ca90d970f072',1,'sjsu::rtos::PeriodicTask']]],
+  ['semaphore_5fbuffer_5f',['semaphore_buffer_',['../d1/d29/classsjsu_1_1rtos_1_1PeriodicTask.html#ae53ad672ea8ea07e4919ffc5b4d04fad',1,'sjsu::rtos::PeriodicTask']]],
+  ['settings',['settings',['../d1/ded/classsjsu_1_1Module.html#a8da9c2a91113e8e1327cc3b20c200d9f',1,'sjsu::Module']]],
+  ['speed',['speed',['../da/d0c/structsjsu_1_1RmdX_1_1Feedback__t.html#a500adabfb14a37df43b71cf8cf171c21',1,'sjsu::RmdX::Feedback_t']]],
+  ['spi',['spi',['../db/db3/structsjsu_1_1stm32f10x_1_1Spi_1_1Port__t.html#ae4afa31e347ec848ce4a143b51598ac9',1,'sjsu::stm32f10x::Spi::Port_t']]],
+  ['spi0',['spi0',['../db/dc0/structsjone.html#ac4c86fb2f7b848a7a79575e2786c1001',1,'sjone::spi0()'],['../db/dc5/structsjtwo.html#a33b8179a6ecb32d74d4fd717d44810e4',1,'sjtwo::spi0()']]],
+  ['spi1',['spi1',['../db/dc0/structsjone.html#ae743d70970f46a3ef0657056f7bde8cd',1,'sjone::spi1()'],['../db/dc5/structsjtwo.html#a727d9b94ba08083962274ad0b76b4633',1,'sjtwo::spi1()']]],
+  ['spi2',['spi2',['../db/dc5/structsjtwo.html#a40e0dfea3ca1a9ccdab8b0c9b432a70c',1,'sjtwo']]],
+  ['spifi',['spifi',['../d2/d48/structsjsu_1_1lpc40xx_1_1SystemController_1_1ClockConfiguration.html#a2d0c84a458e06e84be70f554a1029661',1,'sjsu::lpc40xx::SystemController::ClockConfiguration']]],
+  ['stack_5f',['stack_',['../d3/d19/classsjsu_1_1rtos_1_1Task.html#a5fccf7fa785a8f0a807496cec063f027',1,'sjsu::rtos::Task']]],
+  ['status',['status',['../dc/d00/structsjsu_1_1I2c_1_1Transaction__t.html#a923ef44b94d85bb24e6e91e22395cc1b',1,'sjsu::I2c::Transaction_t']]],
+  ['stop',['stop',['../da/d27/structsjsu_1_1UartSettings__t.html#ad72d2bfa2e14d921f06eb3c3803310ad',1,'sjsu::UartSettings_t']]],
+  ['str',['str',['../d0/de4/structsjsu_1_1I2cCommand_1_1AddressString__t.html#a1e8caafdbebd22880a692db6f7c4b5c9',1,'sjsu::I2cCommand::AddressString_t']]],
+  ['subsystem_5fmaster',['subsystem_master',['../dc/dea/structsjsu_1_1msp432p401r_1_1SystemController_1_1ClockConfiguration__t.html#a6d4a89873152bf701390d65e1e42564c',1,'sjsu::msp432p401r::SystemController::ClockConfiguration_t']]],
+  ['sys_5ftick',['sys_tick',['../d2/d4c/classsjsu_1_1cortex_1_1SystemTimer.html#a2072bd1bdcfc860636a16021693ed4b8',1,'sjsu::cortex::SystemTimer']]],
+  ['system',['system',['../d9/d5a/structsjsu_1_1lpc17xx_1_1SystemController_1_1ClockConfiguration__t.html#a7abed6506724fea16b7bb0d9018a58f6',1,'sjsu::lpc17xx::SystemController::ClockConfiguration_t']]],
+  ['system_5fclock',['system_clock',['../d2/d8e/structsjsu_1_1stm32f10x_1_1SystemController_1_1ClockConfiguration.html#a1756096351027800073b3eac4c2b6397',1,'sjsu::stm32f10x::SystemController::ClockConfiguration']]],
+  ['system_5fcontroller',['system_controller',['../d8/d2e/classsjsu_1_1lpc17xx_1_1SystemController.html#ab1db7a0dd2837d0cf38ad57ced9ee6e3',1,'sjsu::lpc17xx::SystemController::system_controller()'],['../d0/d13/classsjsu_1_1lpc40xx_1_1SystemController.html#a00f89874933f930a777bb75dc507ca60',1,'sjsu::lpc40xx::SystemController::system_controller()']]],
+  ['system_5foscillator',['system_oscillator',['../d2/d48/structsjsu_1_1lpc40xx_1_1SystemController_1_1ClockConfiguration.html#a9d90f5092479c41dbccb63b29dfa5bfa',1,'sjsu::lpc40xx::SystemController::ClockConfiguration']]]
+];

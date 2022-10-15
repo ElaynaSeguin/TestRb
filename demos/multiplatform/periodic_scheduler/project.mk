@@ -1,0 +1,1 @@
+TESTS += $(LIBRARY_DIR)/utility/rtos/freertos/test/periodic_scheduler_test.cpp
